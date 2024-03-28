@@ -4,7 +4,7 @@
 
 🔭 Currently working on MyDrive - a file-sharing web app developed using Django.
 
-[![Anurudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnurudhSingh&hide=prs&show_icons=true&theme=tokyonight&bg_color=00000000\&rank_icon=github)](https://github.com/AnurudhSingh/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnurudhSingh&layout=compact)](https://github.com/AnurudhSingh/github-readme-stats)
+[![Anurudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnurudhSingh&hide=prs&show_icons=true&theme=tokyonight&bg_color=00000000\&rank_icon=github)](https://github.com/AnurudhSingh/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnurudhSingh&layout=compact&theme=tokyonight)](https://github.com/AnurudhSingh/github-readme-stats)
 
 <!--
 **AnurudhSingh/AnurudhSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
