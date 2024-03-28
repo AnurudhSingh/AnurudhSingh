@@ -9,10 +9,7 @@
 ## 📊 GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnurudhSingh&layout=normal&theme=tokyonight&bg_color=00000000&hide_border=true&card_width=400px&custom_title=Language)](https://github.com/AnurudhSingh/github-readme-stats)
 [![Anurudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnurudhSingh&card_width=400px&hide=prs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000\&rank_icon=github&custom_title=Stats)](https://github.com/AnurudhSingh/github-readme-stats)
-
-
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=AnurudhSingh&theme=tokyonight&hide_border=true)<br/>--->
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/non.deterministic) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anurudh27) 
 
