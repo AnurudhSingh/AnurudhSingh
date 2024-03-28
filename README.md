@@ -1,7 +1,8 @@
 ### Hi, I'm Anurudh! 👋
-🌱 I'm a third-year Electronics and Communication engineering student with a zest for learning more and more about AI/ML.
 
-🔭 I’m currently working on MyDrive - a file-sharing web-app developed using Django.
+🌱 A third-year Electronics and Communication engineering student with a zest for learning more and more about AI/ML.
+
+🔭 Currently working on MyDrive - a file-sharing web app developed using Django.
 
 
 <!--
