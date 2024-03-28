@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Anurudh! 
 
-🌱 Pre-final year Electronics and Communication Engineering student.
+🌱 Pre-final year Electronics and Communication Engineering student.</br>
 
 🔭 Currently working on MyDrive - a file-sharing web app developed using Django.</br>
 
