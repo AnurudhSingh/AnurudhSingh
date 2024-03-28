@@ -4,7 +4,7 @@
 
 🔭 Currently working on MyDrive - a file-sharing web app developed using Django.
 
-[![Anurudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnurudhSingh&hide=contribs,prs)](https://github.com/AnurudhSingh/github-readme-stats)
+[![Anurudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnurudhSingh&hide=prs)](https://github.com/AnurudhSingh/github-readme-stats)
 <!--
 **AnurudhSingh/AnurudhSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
