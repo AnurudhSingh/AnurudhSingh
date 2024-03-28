@@ -6,7 +6,6 @@
 
 [![Anurudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnurudhSingh&hide=prs&show_icons=true&theme=tokyonight&bg_color=00000000)](https://github.com/AnurudhSingh/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnurudhSingh&repo=github-readme-stats)](https://github.com/AnurudhSingh/github-readme-stats)
 <!--
 **AnurudhSingh/AnurudhSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
