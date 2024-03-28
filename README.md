@@ -1,7 +1,9 @@
 ## 👋 Hi, I'm Anurudh! 
 
 🌱 Pre-final year Electronics and Communication Engineering student.</br>
+👨‍💻 An aspiring Software Developer.</br>
 🔭 Currently working on MyDrive - a file-sharing web app developed using Django.</br>
+
 
 ## 💻 Tech Stack :
 ### 📋 Languages
