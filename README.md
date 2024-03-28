@@ -1,8 +1,10 @@
 ### Hi, I'm Anurudh! 👋
 
-🌱 A third-year Electronics and Communication engineering student with a zest for learning more and more about AI/ML.
+🌱 Pre-final year Electronics and Communication engineering student with a zest for learning more and more about Artificial Intelligence and Machine Learning.
 
 🔭 Currently working on MyDrive - a file-sharing web app developed using Django.
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anurudh27/) 
 
 [![Anurudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnurudhSingh&card_width=400px&hide=prs&show_icons=true&theme=tokyonight&bg_color=00000000\&rank_icon=github&custom_title=Stats)](https://github.com/AnurudhSingh/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnurudhSingh&layout=normal&theme=tokyonight&bg_color=00000000&card_width=400px&custom_title=Language)](https://github.com/AnurudhSingh/github-readme-stats)
