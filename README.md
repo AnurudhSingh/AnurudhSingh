@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Anurudh! 
 
-🌱 Pre-final year Electronics and Communication engineering student with a zest for learning more and more about Artificial Intelligence and Machine Learning.
+🌱 Pre-final year Electronics and Communication Engineering student.
 
 🔭 Currently working on MyDrive - a file-sharing web app developed using Django.</br>
 
